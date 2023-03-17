@@ -1,0 +1,30 @@
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.exe
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.deps.json
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.runtimeconfig.json
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.pdb
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.csproj.AssemblyReference.cache
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.AssemblyInfoInputs.cache
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.AssemblyInfo.cs
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.csproj.CoreCompileInputs.cache
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\refint\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.pdb
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.genruntimeconfig.cache
+D:\projetos\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\ref\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.exe
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.deps.json
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.runtimeconfig.json
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\bin\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.pdb
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.csproj.AssemblyReference.cache
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.AssemblyInfoInputs.cache
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.AssemblyInfo.cs
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.csproj.CoreCompileInputs.cache
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\refint\Aula8_PropEOperacoesTimeSpan.dll
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.pdb
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\Aula8_PropEOperacoesTimeSpan.genruntimeconfig.cache
+D:\projetos\Seção 7 - Tópicos especiais em C# - Parte 1\Aula8_PropEOperacoesTimeSpan\Aula8_PropEOperacoesTimeSpan\obj\Debug\net6.0\ref\Aula8_PropEOperacoesTimeSpan.dll

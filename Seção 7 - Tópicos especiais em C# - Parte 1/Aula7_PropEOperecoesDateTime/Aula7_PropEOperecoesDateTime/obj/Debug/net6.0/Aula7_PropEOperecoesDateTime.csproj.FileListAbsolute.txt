@@ -1,0 +1,15 @@
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\bin\Debug\net6.0\Aula7_PropEOperecoesDateTime.exe
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\bin\Debug\net6.0\Aula7_PropEOperecoesDateTime.deps.json
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\bin\Debug\net6.0\Aula7_PropEOperecoesDateTime.runtimeconfig.json
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\bin\Debug\net6.0\Aula7_PropEOperecoesDateTime.dll
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\bin\Debug\net6.0\Aula7_PropEOperecoesDateTime.pdb
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.csproj.AssemblyReference.cache
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.AssemblyInfoInputs.cache
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.AssemblyInfo.cs
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.csproj.CoreCompileInputs.cache
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.dll
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\refint\Aula7_PropEOperecoesDateTime.dll
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.pdb
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\Aula7_PropEOperecoesDateTime.genruntimeconfig.cache
+D:\projetos\Aula7_PropEOperecoesDateTime\Aula7_PropEOperecoesDateTime\obj\Debug\net6.0\ref\Aula7_PropEOperecoesDateTime.dll

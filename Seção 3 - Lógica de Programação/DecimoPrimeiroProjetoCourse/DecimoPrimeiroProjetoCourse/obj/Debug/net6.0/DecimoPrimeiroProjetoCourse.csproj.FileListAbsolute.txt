@@ -1,0 +1,15 @@
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\bin\Debug\net6.0\DecimoPrimeiroProjetoCourse.exe
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\bin\Debug\net6.0\DecimoPrimeiroProjetoCourse.deps.json
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\bin\Debug\net6.0\DecimoPrimeiroProjetoCourse.runtimeconfig.json
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\bin\Debug\net6.0\DecimoPrimeiroProjetoCourse.dll
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\bin\Debug\net6.0\DecimoPrimeiroProjetoCourse.pdb
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.AssemblyInfo.cs
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.dll
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\refint\DecimoPrimeiroProjetoCourse.dll
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.pdb
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\DecimoPrimeiroProjetoCourse.genruntimeconfig.cache
+D:\projetos\DecimoPrimeiroProjetoCourse\DecimoPrimeiroProjetoCourse\obj\Debug\net6.0\ref\DecimoPrimeiroProjetoCourse.dll

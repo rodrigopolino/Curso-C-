@@ -1,0 +1,15 @@
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\bin\Debug\net6.0\Aula4_Vetores2.exe
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\bin\Debug\net6.0\Aula4_Vetores2.deps.json
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\bin\Debug\net6.0\Aula4_Vetores2.runtimeconfig.json
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\bin\Debug\net6.0\Aula4_Vetores2.dll
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\bin\Debug\net6.0\Aula4_Vetores2.pdb
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.csproj.AssemblyReference.cache
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.AssemblyInfoInputs.cache
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.AssemblyInfo.cs
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.csproj.CoreCompileInputs.cache
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.dll
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\refint\Aula4_Vetores2.dll
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.pdb
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\Aula4_Vetores2.genruntimeconfig.cache
+D:\projetos\Aula4_Vetores2\Aula4_Vetores2\obj\Debug\net6.0\ref\Aula4_Vetores2.dll

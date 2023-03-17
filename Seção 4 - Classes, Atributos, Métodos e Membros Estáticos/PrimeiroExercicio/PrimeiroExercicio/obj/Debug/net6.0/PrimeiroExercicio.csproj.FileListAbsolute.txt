@@ -1,0 +1,15 @@
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfo.cs
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.exe
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.deps.json
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.runtimeconfig.json
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.dll
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.pdb
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.dll
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\refint\PrimeiroExercicio.dll
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.pdb
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.genruntimeconfig.cache
+E:\OneDrive\curso c#\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\ref\PrimeiroExercicio.dll

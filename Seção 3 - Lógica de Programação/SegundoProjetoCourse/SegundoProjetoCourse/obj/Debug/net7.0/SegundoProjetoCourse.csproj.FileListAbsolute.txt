@@ -1,0 +1,15 @@
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\bin\Debug\net7.0\SegundoProjetoCourse.exe
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\bin\Debug\net7.0\SegundoProjetoCourse.deps.json
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\bin\Debug\net7.0\SegundoProjetoCourse.runtimeconfig.json
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\bin\Debug\net7.0\SegundoProjetoCourse.dll
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\bin\Debug\net7.0\SegundoProjetoCourse.pdb
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.AssemblyInfo.cs
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.dll
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\refint\SegundoProjetoCourse.dll
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.pdb
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\SegundoProjetoCourse.genruntimeconfig.cache
+D:\projetos\SegundoProjetoCourse\SegundoProjetoCourse\obj\Debug\net7.0\ref\SegundoProjetoCourse.dll

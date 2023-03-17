@@ -1,0 +1,15 @@
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\bin\Debug\net6.0\Aula6_TimeSpan.exe
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\bin\Debug\net6.0\Aula6_TimeSpan.deps.json
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\bin\Debug\net6.0\Aula6_TimeSpan.runtimeconfig.json
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\bin\Debug\net6.0\Aula6_TimeSpan.dll
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\bin\Debug\net6.0\Aula6_TimeSpan.pdb
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.csproj.AssemblyReference.cache
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.AssemblyInfoInputs.cache
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.AssemblyInfo.cs
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.csproj.CoreCompileInputs.cache
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.dll
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\refint\Aula6_TimeSpan.dll
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.pdb
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\Aula6_TimeSpan.genruntimeconfig.cache
+D:\projetos\Aula6_TimeSpan\Aula6_TimeSpan\obj\Debug\net6.0\ref\Aula6_TimeSpan.dll

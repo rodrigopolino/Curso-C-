@@ -1,0 +1,15 @@
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\bin\Debug\net6.0\TerceiroProjetoCourse.exe
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\bin\Debug\net6.0\TerceiroProjetoCourse.deps.json
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\bin\Debug\net6.0\TerceiroProjetoCourse.runtimeconfig.json
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\bin\Debug\net6.0\TerceiroProjetoCourse.dll
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\bin\Debug\net6.0\TerceiroProjetoCourse.pdb
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.AssemblyInfo.cs
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.dll
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\refint\TerceiroProjetoCourse.dll
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.pdb
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\TerceiroProjetoCourse.genruntimeconfig.cache
+D:\projetos\TerceiroProjetoCourse\TerceiroProjetoCourse\obj\Debug\net6.0\ref\TerceiroProjetoCourse.dll

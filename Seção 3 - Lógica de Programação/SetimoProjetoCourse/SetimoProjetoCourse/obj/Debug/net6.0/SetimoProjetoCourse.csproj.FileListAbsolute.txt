@@ -1,0 +1,15 @@
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\bin\Debug\net6.0\SetimoProjetoCourse.exe
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\bin\Debug\net6.0\SetimoProjetoCourse.deps.json
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\bin\Debug\net6.0\SetimoProjetoCourse.runtimeconfig.json
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\bin\Debug\net6.0\SetimoProjetoCourse.dll
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\bin\Debug\net6.0\SetimoProjetoCourse.pdb
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.AssemblyInfo.cs
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.dll
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\refint\SetimoProjetoCourse.dll
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.pdb
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\SetimoProjetoCourse.genruntimeconfig.cache
+D:\projetos\SetimoProjetoCourse\SetimoProjetoCourse\obj\Debug\net6.0\ref\SetimoProjetoCourse.dll

@@ -1,0 +1,15 @@
+D:\projetos\Aula5_Properties\Aula5_Properties\bin\Debug\net6.0\Aula5_Properties.exe
+D:\projetos\Aula5_Properties\Aula5_Properties\bin\Debug\net6.0\Aula5_Properties.deps.json
+D:\projetos\Aula5_Properties\Aula5_Properties\bin\Debug\net6.0\Aula5_Properties.runtimeconfig.json
+D:\projetos\Aula5_Properties\Aula5_Properties\bin\Debug\net6.0\Aula5_Properties.dll
+D:\projetos\Aula5_Properties\Aula5_Properties\bin\Debug\net6.0\Aula5_Properties.pdb
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.csproj.AssemblyReference.cache
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.AssemblyInfoInputs.cache
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.AssemblyInfo.cs
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.csproj.CoreCompileInputs.cache
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.dll
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\refint\Aula5_Properties.dll
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.pdb
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\Aula5_Properties.genruntimeconfig.cache
+D:\projetos\Aula5_Properties\Aula5_Properties\obj\Debug\net6.0\ref\Aula5_Properties.dll

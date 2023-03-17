@@ -1,0 +1,15 @@
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.csproj.AssemblyReference.cache
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.AssemblyInfoInputs.cache
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.AssemblyInfo.cs
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.csproj.CoreCompileInputs.cache
+D:\projetos\Aula1_Struct\Aula1_Struct\bin\Debug\net6.0\Aula1_Struct.exe
+D:\projetos\Aula1_Struct\Aula1_Struct\bin\Debug\net6.0\Aula1_Struct.deps.json
+D:\projetos\Aula1_Struct\Aula1_Struct\bin\Debug\net6.0\Aula1_Struct.runtimeconfig.json
+D:\projetos\Aula1_Struct\Aula1_Struct\bin\Debug\net6.0\Aula1_Struct.dll
+D:\projetos\Aula1_Struct\Aula1_Struct\bin\Debug\net6.0\Aula1_Struct.pdb
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.dll
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\refint\Aula1_Struct.dll
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.pdb
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\Aula1_Struct.genruntimeconfig.cache
+D:\projetos\Aula1_Struct\Aula1_Struct\obj\Debug\net6.0\ref\Aula1_Struct.dll

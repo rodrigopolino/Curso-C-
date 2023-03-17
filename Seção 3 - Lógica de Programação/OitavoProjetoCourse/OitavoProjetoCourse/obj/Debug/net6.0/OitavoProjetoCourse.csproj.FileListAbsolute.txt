@@ -1,0 +1,15 @@
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\bin\Debug\net6.0\OitavoProjetoCourse.exe
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\bin\Debug\net6.0\OitavoProjetoCourse.deps.json
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\bin\Debug\net6.0\OitavoProjetoCourse.runtimeconfig.json
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\bin\Debug\net6.0\OitavoProjetoCourse.dll
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\bin\Debug\net6.0\OitavoProjetoCourse.pdb
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.AssemblyInfo.cs
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.dll
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\refint\OitavoProjetoCourse.dll
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.pdb
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\OitavoProjetoCourse.genruntimeconfig.cache
+D:\projetos\OitavoProjetoCourse\OitavoProjetoCourse\obj\Debug\net6.0\ref\OitavoProjetoCourse.dll

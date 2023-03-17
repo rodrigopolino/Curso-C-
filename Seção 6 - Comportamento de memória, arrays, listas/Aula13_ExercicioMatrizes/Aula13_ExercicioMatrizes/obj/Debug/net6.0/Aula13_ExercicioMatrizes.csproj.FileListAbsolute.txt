@@ -1,0 +1,15 @@
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\bin\Debug\net6.0\Aula13_ExercicioMatrizes.exe
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\bin\Debug\net6.0\Aula13_ExercicioMatrizes.deps.json
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\bin\Debug\net6.0\Aula13_ExercicioMatrizes.runtimeconfig.json
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\bin\Debug\net6.0\Aula13_ExercicioMatrizes.dll
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\bin\Debug\net6.0\Aula13_ExercicioMatrizes.pdb
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.csproj.AssemblyReference.cache
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.AssemblyInfoInputs.cache
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.AssemblyInfo.cs
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.csproj.CoreCompileInputs.cache
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.dll
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\refint\Aula13_ExercicioMatrizes.dll
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.pdb
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\Aula13_ExercicioMatrizes.genruntimeconfig.cache
+D:\projetos\Aula13_ExercicioMatrizes\Aula13_ExercicioMatrizes\obj\Debug\net6.0\ref\Aula13_ExercicioMatrizes.dll

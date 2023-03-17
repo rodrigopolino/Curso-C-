@@ -1,0 +1,15 @@
+D:\projetos\Aula2_Nullable\Aula2_Nullable\bin\Debug\net6.0\Aula2_Nullable.exe
+D:\projetos\Aula2_Nullable\Aula2_Nullable\bin\Debug\net6.0\Aula2_Nullable.deps.json
+D:\projetos\Aula2_Nullable\Aula2_Nullable\bin\Debug\net6.0\Aula2_Nullable.runtimeconfig.json
+D:\projetos\Aula2_Nullable\Aula2_Nullable\bin\Debug\net6.0\Aula2_Nullable.dll
+D:\projetos\Aula2_Nullable\Aula2_Nullable\bin\Debug\net6.0\Aula2_Nullable.pdb
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.csproj.AssemblyReference.cache
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.AssemblyInfoInputs.cache
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.AssemblyInfo.cs
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.csproj.CoreCompileInputs.cache
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.dll
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\refint\Aula2_Nullable.dll
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.pdb
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\Aula2_Nullable.genruntimeconfig.cache
+D:\projetos\Aula2_Nullable\Aula2_Nullable\obj\Debug\net6.0\ref\Aula2_Nullable.dll

@@ -1,0 +1,15 @@
+D:\projetos\01Exercício\01Exercício\bin\Debug\net6.0\01Exercício.exe
+D:\projetos\01Exercício\01Exercício\bin\Debug\net6.0\01Exercício.deps.json
+D:\projetos\01Exercício\01Exercício\bin\Debug\net6.0\01Exercício.runtimeconfig.json
+D:\projetos\01Exercício\01Exercício\bin\Debug\net6.0\01Exercício.dll
+D:\projetos\01Exercício\01Exercício\bin\Debug\net6.0\01Exercício.pdb
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.csproj.AssemblyReference.cache
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.AssemblyInfoInputs.cache
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.AssemblyInfo.cs
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.csproj.CoreCompileInputs.cache
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.dll
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\refint\01Exercício.dll
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.pdb
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\01Exercício.genruntimeconfig.cache
+D:\projetos\01Exercício\01Exercício\obj\Debug\net6.0\ref\01Exercício.dll

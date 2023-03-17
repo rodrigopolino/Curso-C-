@@ -1,0 +1,15 @@
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\bin\Debug\net6.0\QuartoProjetoCourse.exe
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\bin\Debug\net6.0\QuartoProjetoCourse.deps.json
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\bin\Debug\net6.0\QuartoProjetoCourse.runtimeconfig.json
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\bin\Debug\net6.0\QuartoProjetoCourse.dll
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\bin\Debug\net6.0\QuartoProjetoCourse.pdb
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.AssemblyInfo.cs
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.dll
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\refint\QuartoProjetoCourse.dll
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.pdb
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\QuartoProjetoCourse.genruntimeconfig.cache
+D:\projetos\QuartoProjetoCourse\QuartoProjetoCourse\obj\Debug\net6.0\ref\QuartoProjetoCourse.dll

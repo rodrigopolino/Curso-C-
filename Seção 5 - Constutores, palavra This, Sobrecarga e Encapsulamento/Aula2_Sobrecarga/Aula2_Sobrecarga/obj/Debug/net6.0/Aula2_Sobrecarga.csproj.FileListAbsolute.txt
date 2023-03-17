@@ -1,0 +1,15 @@
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\bin\Debug\net6.0\Aula2_Sobrecarga.exe
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\bin\Debug\net6.0\Aula2_Sobrecarga.deps.json
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\bin\Debug\net6.0\Aula2_Sobrecarga.runtimeconfig.json
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\bin\Debug\net6.0\Aula2_Sobrecarga.dll
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\bin\Debug\net6.0\Aula2_Sobrecarga.pdb
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.csproj.AssemblyReference.cache
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.AssemblyInfoInputs.cache
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.AssemblyInfo.cs
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.csproj.CoreCompileInputs.cache
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.dll
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\refint\Aula2_Sobrecarga.dll
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.pdb
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\Aula2_Sobrecarga.genruntimeconfig.cache
+D:\projetos\Aula2_Sobrecarga\Aula2_Sobrecarga\obj\Debug\net6.0\ref\Aula2_Sobrecarga.dll

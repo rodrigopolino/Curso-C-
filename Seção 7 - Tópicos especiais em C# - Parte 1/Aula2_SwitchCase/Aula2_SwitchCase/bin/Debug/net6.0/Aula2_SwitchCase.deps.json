@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula2_SwitchCase/1.0.0": {
+        "runtime": {
+          "Aula2_SwitchCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula2_SwitchCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\bin\Debug\net6.0\QuintoProjetoCourse.exe
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\bin\Debug\net6.0\QuintoProjetoCourse.deps.json
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\bin\Debug\net6.0\QuintoProjetoCourse.runtimeconfig.json
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\bin\Debug\net6.0\QuintoProjetoCourse.dll
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\bin\Debug\net6.0\QuintoProjetoCourse.pdb
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.AssemblyInfo.cs
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.dll
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\refint\QuintoProjetoCourse.dll
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.pdb
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\QuintoProjetoCourse.genruntimeconfig.cache
+D:\projetos\QuintoProjetoCourse\QuintoProjetoCourse\obj\Debug\net6.0\ref\QuintoProjetoCourse.dll

@@ -1,0 +1,15 @@
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.AssemblyInfo.cs
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\bin\Debug\net6.0\DecimoProjetoCourse.exe
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\bin\Debug\net6.0\DecimoProjetoCourse.deps.json
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\bin\Debug\net6.0\DecimoProjetoCourse.runtimeconfig.json
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\bin\Debug\net6.0\DecimoProjetoCourse.dll
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\bin\Debug\net6.0\DecimoProjetoCourse.pdb
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.dll
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\refint\DecimoProjetoCourse.dll
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.pdb
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\DecimoProjetoCourse.genruntimeconfig.cache
+D:\projetos\DecimoProjetoCourse\DecimoProjetoCourse\obj\Debug\net6.0\ref\DecimoProjetoCourse.dll

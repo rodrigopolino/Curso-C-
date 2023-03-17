@@ -1,0 +1,15 @@
+D:\projetos\Aula6_Params\Aula6_Params\bin\Debug\net6.0\Aula6_Params.exe
+D:\projetos\Aula6_Params\Aula6_Params\bin\Debug\net6.0\Aula6_Params.deps.json
+D:\projetos\Aula6_Params\Aula6_Params\bin\Debug\net6.0\Aula6_Params.runtimeconfig.json
+D:\projetos\Aula6_Params\Aula6_Params\bin\Debug\net6.0\Aula6_Params.dll
+D:\projetos\Aula6_Params\Aula6_Params\bin\Debug\net6.0\Aula6_Params.pdb
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.csproj.AssemblyReference.cache
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.AssemblyInfoInputs.cache
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.AssemblyInfo.cs
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.csproj.CoreCompileInputs.cache
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.dll
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\refint\Aula6_Params.dll
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.pdb
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\Aula6_Params.genruntimeconfig.cache
+D:\projetos\Aula6_Params\Aula6_Params\obj\Debug\net6.0\ref\Aula6_Params.dll

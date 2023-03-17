@@ -1,0 +1,15 @@
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\bin\Debug\net6.0\Aula9_DateTimeKind.exe
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\bin\Debug\net6.0\Aula9_DateTimeKind.deps.json
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\bin\Debug\net6.0\Aula9_DateTimeKind.runtimeconfig.json
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\bin\Debug\net6.0\Aula9_DateTimeKind.dll
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\bin\Debug\net6.0\Aula9_DateTimeKind.pdb
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.csproj.AssemblyReference.cache
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.AssemblyInfoInputs.cache
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.AssemblyInfo.cs
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.csproj.CoreCompileInputs.cache
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.dll
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\refint\Aula9_DateTimeKind.dll
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.pdb
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\Aula9_DateTimeKind.genruntimeconfig.cache
+D:\projetos\Aula9_DateTimeKind\Aula9_DateTimeKind\obj\Debug\net6.0\ref\Aula9_DateTimeKind.dll

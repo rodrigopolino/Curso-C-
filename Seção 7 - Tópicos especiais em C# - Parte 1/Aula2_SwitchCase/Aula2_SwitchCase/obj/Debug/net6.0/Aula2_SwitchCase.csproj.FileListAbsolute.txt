@@ -1,0 +1,15 @@
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\bin\Debug\net6.0\Aula2_SwitchCase.exe
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\bin\Debug\net6.0\Aula2_SwitchCase.deps.json
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\bin\Debug\net6.0\Aula2_SwitchCase.runtimeconfig.json
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\bin\Debug\net6.0\Aula2_SwitchCase.dll
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\bin\Debug\net6.0\Aula2_SwitchCase.pdb
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.csproj.AssemblyReference.cache
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.AssemblyInfoInputs.cache
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.AssemblyInfo.cs
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.csproj.CoreCompileInputs.cache
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.dll
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\refint\Aula2_SwitchCase.dll
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.pdb
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\Aula2_SwitchCase.genruntimeconfig.cache
+D:\projetos\Aula2_SwitchCase\Aula2_SwitchCase\obj\Debug\net6.0\ref\Aula2_SwitchCase.dll

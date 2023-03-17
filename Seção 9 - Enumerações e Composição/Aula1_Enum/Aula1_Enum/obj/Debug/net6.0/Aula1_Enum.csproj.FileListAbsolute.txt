@@ -1,0 +1,15 @@
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.csproj.AssemblyReference.cache
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.AssemblyInfoInputs.cache
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.AssemblyInfo.cs
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.csproj.CoreCompileInputs.cache
+D:\projetos\Aula1_Enum\Aula1_Enum\bin\Debug\net6.0\Aula1_Enum.exe
+D:\projetos\Aula1_Enum\Aula1_Enum\bin\Debug\net6.0\Aula1_Enum.deps.json
+D:\projetos\Aula1_Enum\Aula1_Enum\bin\Debug\net6.0\Aula1_Enum.runtimeconfig.json
+D:\projetos\Aula1_Enum\Aula1_Enum\bin\Debug\net6.0\Aula1_Enum.dll
+D:\projetos\Aula1_Enum\Aula1_Enum\bin\Debug\net6.0\Aula1_Enum.pdb
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.dll
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\refint\Aula1_Enum.dll
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.pdb
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\Aula1_Enum.genruntimeconfig.cache
+D:\projetos\Aula1_Enum\Aula1_Enum\obj\Debug\net6.0\ref\Aula1_Enum.dll

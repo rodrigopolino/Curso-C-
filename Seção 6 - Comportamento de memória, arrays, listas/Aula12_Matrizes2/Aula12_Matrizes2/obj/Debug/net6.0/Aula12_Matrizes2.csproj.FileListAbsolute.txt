@@ -1,0 +1,15 @@
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\bin\Debug\net6.0\Aula12_Matrizes2.exe
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\bin\Debug\net6.0\Aula12_Matrizes2.deps.json
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\bin\Debug\net6.0\Aula12_Matrizes2.runtimeconfig.json
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\bin\Debug\net6.0\Aula12_Matrizes2.dll
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\bin\Debug\net6.0\Aula12_Matrizes2.pdb
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.csproj.AssemblyReference.cache
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.AssemblyInfoInputs.cache
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.AssemblyInfo.cs
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.csproj.CoreCompileInputs.cache
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.dll
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\refint\Aula12_Matrizes2.dll
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.pdb
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\Aula12_Matrizes2.genruntimeconfig.cache
+D:\projetos\Aula12_Matrizes2\Aula12_Matrizes2\obj\Debug\net6.0\ref\Aula12_Matrizes2.dll

@@ -1,0 +1,15 @@
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\bin\Debug\net6.0\Aula6_AutoProperties.exe
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\bin\Debug\net6.0\Aula6_AutoProperties.deps.json
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\bin\Debug\net6.0\Aula6_AutoProperties.runtimeconfig.json
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\bin\Debug\net6.0\Aula6_AutoProperties.dll
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\bin\Debug\net6.0\Aula6_AutoProperties.pdb
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.csproj.AssemblyReference.cache
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.AssemblyInfoInputs.cache
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.AssemblyInfo.cs
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.csproj.CoreCompileInputs.cache
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.dll
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\refint\Aula6_AutoProperties.dll
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.pdb
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\Aula6_AutoProperties.genruntimeconfig.cache
+D:\projetos\Aula6_AutoProperties\Aula6_AutoProperties\obj\Debug\net6.0\ref\Aula6_AutoProperties.dll

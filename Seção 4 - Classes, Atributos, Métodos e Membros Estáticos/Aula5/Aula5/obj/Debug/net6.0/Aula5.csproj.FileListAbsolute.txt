@@ -1,0 +1,15 @@
+E:\curso c#\Aula5\Aula5\bin\Debug\net6.0\Aula5.exe
+E:\curso c#\Aula5\Aula5\bin\Debug\net6.0\Aula5.deps.json
+E:\curso c#\Aula5\Aula5\bin\Debug\net6.0\Aula5.runtimeconfig.json
+E:\curso c#\Aula5\Aula5\bin\Debug\net6.0\Aula5.dll
+E:\curso c#\Aula5\Aula5\bin\Debug\net6.0\Aula5.pdb
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.csproj.AssemblyReference.cache
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.GeneratedMSBuildEditorConfig.editorconfig
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfoInputs.cache
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfo.cs
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.csproj.CoreCompileInputs.cache
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.dll
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\refint\Aula5.dll
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.pdb
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\Aula5.genruntimeconfig.cache
+E:\curso c#\Aula5\Aula5\obj\Debug\net6.0\ref\Aula5.dll

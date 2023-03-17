@@ -1,0 +1,15 @@
+D:\projetos\Aula3_Vetores\Aula3_Vetores\bin\Debug\net6.0\Aula3_Vetores.exe
+D:\projetos\Aula3_Vetores\Aula3_Vetores\bin\Debug\net6.0\Aula3_Vetores.deps.json
+D:\projetos\Aula3_Vetores\Aula3_Vetores\bin\Debug\net6.0\Aula3_Vetores.runtimeconfig.json
+D:\projetos\Aula3_Vetores\Aula3_Vetores\bin\Debug\net6.0\Aula3_Vetores.dll
+D:\projetos\Aula3_Vetores\Aula3_Vetores\bin\Debug\net6.0\Aula3_Vetores.pdb
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.csproj.AssemblyReference.cache
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.AssemblyInfoInputs.cache
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.AssemblyInfo.cs
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.csproj.CoreCompileInputs.cache
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.dll
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\refint\Aula3_Vetores.dll
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.pdb
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\Aula3_Vetores.genruntimeconfig.cache
+D:\projetos\Aula3_Vetores\Aula3_Vetores\obj\Debug\net6.0\ref\Aula3_Vetores.dll

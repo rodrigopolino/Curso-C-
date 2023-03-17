@@ -1,0 +1,15 @@
+D:\projetos\Aula5_DateTime\Aula5_DateTime\bin\Debug\net6.0\Aula5_DateTime.exe
+D:\projetos\Aula5_DateTime\Aula5_DateTime\bin\Debug\net6.0\Aula5_DateTime.deps.json
+D:\projetos\Aula5_DateTime\Aula5_DateTime\bin\Debug\net6.0\Aula5_DateTime.runtimeconfig.json
+D:\projetos\Aula5_DateTime\Aula5_DateTime\bin\Debug\net6.0\Aula5_DateTime.dll
+D:\projetos\Aula5_DateTime\Aula5_DateTime\bin\Debug\net6.0\Aula5_DateTime.pdb
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.csproj.AssemblyReference.cache
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.AssemblyInfoInputs.cache
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.AssemblyInfo.cs
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.csproj.CoreCompileInputs.cache
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.dll
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\refint\Aula5_DateTime.dll
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.pdb
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\Aula5_DateTime.genruntimeconfig.cache
+D:\projetos\Aula5_DateTime\Aula5_DateTime\obj\Debug\net6.0\ref\Aula5_DateTime.dll

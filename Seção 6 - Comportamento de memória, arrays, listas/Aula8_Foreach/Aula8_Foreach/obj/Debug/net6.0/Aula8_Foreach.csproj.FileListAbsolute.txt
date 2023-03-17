@@ -1,0 +1,15 @@
+D:\projetos\Aula8_Foreach\Aula8_Foreach\bin\Debug\net6.0\Aula8_Foreach.exe
+D:\projetos\Aula8_Foreach\Aula8_Foreach\bin\Debug\net6.0\Aula8_Foreach.deps.json
+D:\projetos\Aula8_Foreach\Aula8_Foreach\bin\Debug\net6.0\Aula8_Foreach.runtimeconfig.json
+D:\projetos\Aula8_Foreach\Aula8_Foreach\bin\Debug\net6.0\Aula8_Foreach.dll
+D:\projetos\Aula8_Foreach\Aula8_Foreach\bin\Debug\net6.0\Aula8_Foreach.pdb
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.csproj.AssemblyReference.cache
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.AssemblyInfoInputs.cache
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.AssemblyInfo.cs
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.csproj.CoreCompileInputs.cache
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.dll
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\refint\Aula8_Foreach.dll
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.pdb
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\Aula8_Foreach.genruntimeconfig.cache
+D:\projetos\Aula8_Foreach\Aula8_Foreach\obj\Debug\net6.0\ref\Aula8_Foreach.dll

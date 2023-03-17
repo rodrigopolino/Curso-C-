@@ -1,0 +1,15 @@
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\bin\Debug\net6.0\Aula1_PalavraVar.exe
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\bin\Debug\net6.0\Aula1_PalavraVar.deps.json
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\bin\Debug\net6.0\Aula1_PalavraVar.runtimeconfig.json
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\bin\Debug\net6.0\Aula1_PalavraVar.dll
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\bin\Debug\net6.0\Aula1_PalavraVar.pdb
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.csproj.AssemblyReference.cache
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.AssemblyInfoInputs.cache
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.AssemblyInfo.cs
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.csproj.CoreCompileInputs.cache
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.dll
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\refint\Aula1_PalavraVar.dll
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.pdb
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\Aula1_PalavraVar.genruntimeconfig.cache
+D:\projetos\Aula1_PalavraVar\Aula1_PalavraVar\obj\Debug\net6.0\ref\Aula1_PalavraVar.dll

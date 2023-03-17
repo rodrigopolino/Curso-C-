@@ -1,0 +1,15 @@
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\bin\Debug\net6.0\SextoProjetoCourse.exe
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\bin\Debug\net6.0\SextoProjetoCourse.deps.json
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\bin\Debug\net6.0\SextoProjetoCourse.runtimeconfig.json
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\bin\Debug\net6.0\SextoProjetoCourse.dll
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\bin\Debug\net6.0\SextoProjetoCourse.pdb
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.AssemblyInfo.cs
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.dll
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\refint\SextoProjetoCourse.dll
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.pdb
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\SextoProjetoCourse.genruntimeconfig.cache
+D:\projetos\SextoProjetoCourse\SextoProjetoCourse\obj\Debug\net6.0\ref\SextoProjetoCourse.dll

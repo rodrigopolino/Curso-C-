@@ -1,0 +1,15 @@
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\bin\Debug\net6.0\Aula7_Exercicio.exe
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\bin\Debug\net6.0\Aula7_Exercicio.deps.json
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\bin\Debug\net6.0\Aula7_Exercicio.runtimeconfig.json
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\bin\Debug\net6.0\Aula7_Exercicio.dll
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\bin\Debug\net6.0\Aula7_Exercicio.pdb
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.csproj.AssemblyReference.cache
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.AssemblyInfoInputs.cache
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.AssemblyInfo.cs
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.csproj.CoreCompileInputs.cache
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.dll
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\refint\Aula7_Exercicio.dll
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.pdb
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\Aula7_Exercicio.genruntimeconfig.cache
+D:\projetos\Aula7_Exercicio\Aula7_Exercicio\obj\Debug\net6.0\ref\Aula7_Exercicio.dll

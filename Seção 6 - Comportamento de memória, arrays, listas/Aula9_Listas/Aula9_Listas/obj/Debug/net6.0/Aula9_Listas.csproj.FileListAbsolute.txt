@@ -1,0 +1,15 @@
+D:\projetos\Aula9_Listas\Aula9_Listas\bin\Debug\net6.0\Aula9_Listas.exe
+D:\projetos\Aula9_Listas\Aula9_Listas\bin\Debug\net6.0\Aula9_Listas.deps.json
+D:\projetos\Aula9_Listas\Aula9_Listas\bin\Debug\net6.0\Aula9_Listas.runtimeconfig.json
+D:\projetos\Aula9_Listas\Aula9_Listas\bin\Debug\net6.0\Aula9_Listas.dll
+D:\projetos\Aula9_Listas\Aula9_Listas\bin\Debug\net6.0\Aula9_Listas.pdb
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.csproj.AssemblyReference.cache
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.AssemblyInfoInputs.cache
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.AssemblyInfo.cs
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.csproj.CoreCompileInputs.cache
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.dll
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\refint\Aula9_Listas.dll
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.pdb
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\Aula9_Listas.genruntimeconfig.cache
+D:\projetos\Aula9_Listas\Aula9_Listas\obj\Debug\net6.0\ref\Aula9_Listas.dll

@@ -1,0 +1,15 @@
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\bin\Debug\net6.0\NonoProjetoCourse.exe
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\bin\Debug\net6.0\NonoProjetoCourse.deps.json
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\bin\Debug\net6.0\NonoProjetoCourse.runtimeconfig.json
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\bin\Debug\net6.0\NonoProjetoCourse.dll
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\bin\Debug\net6.0\NonoProjetoCourse.pdb
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.csproj.AssemblyReference.cache
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.AssemblyInfoInputs.cache
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.AssemblyInfo.cs
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.csproj.CoreCompileInputs.cache
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.dll
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\refint\NonoProjetoCourse.dll
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.pdb
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\NonoProjetoCourse.genruntimeconfig.cache
+D:\projetos\NonoProjetoCourse\NonoProjetoCourse\obj\Debug\net6.0\ref\NonoProjetoCourse.dll

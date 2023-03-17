@@ -1,0 +1,15 @@
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\bin\Debug\net6.0\Aula4_Encapsulamento.exe
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\bin\Debug\net6.0\Aula4_Encapsulamento.deps.json
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\bin\Debug\net6.0\Aula4_Encapsulamento.runtimeconfig.json
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\bin\Debug\net6.0\Aula4_Encapsulamento.dll
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\bin\Debug\net6.0\Aula4_Encapsulamento.pdb
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.csproj.AssemblyReference.cache
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.AssemblyInfoInputs.cache
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.AssemblyInfo.cs
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.csproj.CoreCompileInputs.cache
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.dll
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\refint\Aula4_Encapsulamento.dll
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.pdb
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\Aula4_Encapsulamento.genruntimeconfig.cache
+D:\projetos\Aula4_Encapsulamento\Aula4_Encapsulamento\obj\Debug\net6.0\ref\Aula4_Encapsulamento.dll

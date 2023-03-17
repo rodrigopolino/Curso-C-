@@ -1,0 +1,15 @@
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\bin\Debug\net6.0\Aula3_CondiçãoTernária.exe
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\bin\Debug\net6.0\Aula3_CondiçãoTernária.deps.json
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\bin\Debug\net6.0\Aula3_CondiçãoTernária.runtimeconfig.json
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\bin\Debug\net6.0\Aula3_CondiçãoTernária.dll
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\bin\Debug\net6.0\Aula3_CondiçãoTernária.pdb
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.csproj.AssemblyReference.cache
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.AssemblyInfoInputs.cache
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.AssemblyInfo.cs
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.csproj.CoreCompileInputs.cache
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.dll
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\refint\Aula3_CondiçãoTernária.dll
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.pdb
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\Aula3_CondiçãoTernária.genruntimeconfig.cache
+D:\projetos\Aula3_CondiçãoTernária\Aula3_CondiçãoTernária\obj\Debug\net6.0\ref\Aula3_CondiçãoTernária.dll

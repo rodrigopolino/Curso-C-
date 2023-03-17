@@ -1,0 +1,15 @@
+D:\projetos\Aula1_Construtores\Aula1_Construtores\bin\Debug\net6.0\Aula1_Construtores.exe
+D:\projetos\Aula1_Construtores\Aula1_Construtores\bin\Debug\net6.0\Aula1_Construtores.deps.json
+D:\projetos\Aula1_Construtores\Aula1_Construtores\bin\Debug\net6.0\Aula1_Construtores.runtimeconfig.json
+D:\projetos\Aula1_Construtores\Aula1_Construtores\bin\Debug\net6.0\Aula1_Construtores.dll
+D:\projetos\Aula1_Construtores\Aula1_Construtores\bin\Debug\net6.0\Aula1_Construtores.pdb
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.csproj.AssemblyReference.cache
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.AssemblyInfoInputs.cache
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.AssemblyInfo.cs
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.csproj.CoreCompileInputs.cache
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.dll
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\refint\Aula1_Construtores.dll
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.pdb
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\Aula1_Construtores.genruntimeconfig.cache
+D:\projetos\Aula1_Construtores\Aula1_Construtores\obj\Debug\net6.0\ref\Aula1_Construtores.dll

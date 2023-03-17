@@ -1,0 +1,15 @@
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\bin\Debug\net6.0\Aula4_FuncoesString.exe
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\bin\Debug\net6.0\Aula4_FuncoesString.deps.json
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\bin\Debug\net6.0\Aula4_FuncoesString.runtimeconfig.json
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\bin\Debug\net6.0\Aula4_FuncoesString.dll
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\bin\Debug\net6.0\Aula4_FuncoesString.pdb
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.csproj.AssemblyReference.cache
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.AssemblyInfoInputs.cache
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.AssemblyInfo.cs
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.csproj.CoreCompileInputs.cache
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.dll
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\refint\Aula4_FuncoesString.dll
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.pdb
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\Aula4_FuncoesString.genruntimeconfig.cache
+D:\projetos\Aula4_FuncoesString\Aula4_FuncoesString\obj\Debug\net6.0\ref\Aula4_FuncoesString.dll

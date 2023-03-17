@@ -1,0 +1,15 @@
+D:\projetos\TerceiroExercicio\TerceiroExercicio\bin\Debug\net6.0\TerceiroExercicio.exe
+D:\projetos\TerceiroExercicio\TerceiroExercicio\bin\Debug\net6.0\TerceiroExercicio.deps.json
+D:\projetos\TerceiroExercicio\TerceiroExercicio\bin\Debug\net6.0\TerceiroExercicio.runtimeconfig.json
+D:\projetos\TerceiroExercicio\TerceiroExercicio\bin\Debug\net6.0\TerceiroExercicio.dll
+D:\projetos\TerceiroExercicio\TerceiroExercicio\bin\Debug\net6.0\TerceiroExercicio.pdb
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.csproj.AssemblyReference.cache
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.AssemblyInfoInputs.cache
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.AssemblyInfo.cs
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.csproj.CoreCompileInputs.cache
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.dll
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\refint\TerceiroExercicio.dll
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.pdb
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\TerceiroExercicio.genruntimeconfig.cache
+D:\projetos\TerceiroExercicio\TerceiroExercicio\obj\Debug\net6.0\ref\TerceiroExercicio.dll

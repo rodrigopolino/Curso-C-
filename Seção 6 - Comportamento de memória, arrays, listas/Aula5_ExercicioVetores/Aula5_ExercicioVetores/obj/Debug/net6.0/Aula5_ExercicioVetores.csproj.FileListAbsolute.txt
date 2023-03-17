@@ -1,0 +1,15 @@
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\bin\Debug\net6.0\Aula5_ExercicioVetores.exe
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\bin\Debug\net6.0\Aula5_ExercicioVetores.deps.json
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\bin\Debug\net6.0\Aula5_ExercicioVetores.runtimeconfig.json
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\bin\Debug\net6.0\Aula5_ExercicioVetores.dll
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\bin\Debug\net6.0\Aula5_ExercicioVetores.pdb
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.csproj.AssemblyReference.cache
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.AssemblyInfoInputs.cache
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.AssemblyInfo.cs
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.csproj.CoreCompileInputs.cache
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.dll
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\refint\Aula5_ExercicioVetores.dll
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.pdb
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\Aula5_ExercicioVetores.genruntimeconfig.cache
+D:\projetos\Aula5_ExercicioVetores\Aula5_ExercicioVetores\obj\Debug\net6.0\ref\Aula5_ExercicioVetores.dll

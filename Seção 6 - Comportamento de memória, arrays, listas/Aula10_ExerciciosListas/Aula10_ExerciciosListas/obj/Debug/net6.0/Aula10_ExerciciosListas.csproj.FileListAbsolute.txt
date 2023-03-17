@@ -1,0 +1,15 @@
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\bin\Debug\net6.0\Aula10_ExerciciosListas.exe
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\bin\Debug\net6.0\Aula10_ExerciciosListas.deps.json
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\bin\Debug\net6.0\Aula10_ExerciciosListas.runtimeconfig.json
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\bin\Debug\net6.0\Aula10_ExerciciosListas.dll
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\bin\Debug\net6.0\Aula10_ExerciciosListas.pdb
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.csproj.AssemblyReference.cache
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.AssemblyInfoInputs.cache
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.AssemblyInfo.cs
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.csproj.CoreCompileInputs.cache
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.dll
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\refint\Aula10_ExerciciosListas.dll
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.pdb
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\Aula10_ExerciciosListas.genruntimeconfig.cache
+D:\projetos\Aula10_ExerciciosListas\Aula10_ExerciciosListas\obj\Debug\net6.0\ref\Aula10_ExerciciosListas.dll
