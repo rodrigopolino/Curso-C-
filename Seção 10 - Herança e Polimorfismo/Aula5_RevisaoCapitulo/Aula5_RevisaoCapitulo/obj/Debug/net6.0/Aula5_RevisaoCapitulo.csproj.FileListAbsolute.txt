@@ -1,0 +1,15 @@
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\bin\Debug\net6.0\Aula5_RevisaoCapitulo.exe
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\bin\Debug\net6.0\Aula5_RevisaoCapitulo.deps.json
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\bin\Debug\net6.0\Aula5_RevisaoCapitulo.runtimeconfig.json
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\bin\Debug\net6.0\Aula5_RevisaoCapitulo.dll
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\bin\Debug\net6.0\Aula5_RevisaoCapitulo.pdb
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.csproj.AssemblyReference.cache
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.AssemblyInfoInputs.cache
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.AssemblyInfo.cs
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.csproj.CoreCompileInputs.cache
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.dll
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\refint\Aula5_RevisaoCapitulo.dll
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.pdb
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\Aula5_RevisaoCapitulo.genruntimeconfig.cache
+D:\projetos\Aula5_RevisaoCapitulo\Aula5_RevisaoCapitulo\obj\Debug\net6.0\ref\Aula5_RevisaoCapitulo.dll
