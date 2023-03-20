@@ -1,0 +1,15 @@
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.csproj.AssemblyReference.cache
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.AssemblyInfoInputs.cache
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.AssemblyInfo.cs
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\bin\Debug\net6.0\Aula8_MetodosAbstratos.exe
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\bin\Debug\net6.0\Aula8_MetodosAbstratos.deps.json
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\bin\Debug\net6.0\Aula8_MetodosAbstratos.runtimeconfig.json
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\bin\Debug\net6.0\Aula8_MetodosAbstratos.dll
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\bin\Debug\net6.0\Aula8_MetodosAbstratos.pdb
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.dll
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\refint\Aula8_MetodosAbstratos.dll
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.pdb
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\Aula8_MetodosAbstratos.genruntimeconfig.cache
+D:\projetos\Aula8_MetodosAbstratos\Aula8_MetodosAbstratos\obj\Debug\net6.0\ref\Aula8_MetodosAbstratos.dll

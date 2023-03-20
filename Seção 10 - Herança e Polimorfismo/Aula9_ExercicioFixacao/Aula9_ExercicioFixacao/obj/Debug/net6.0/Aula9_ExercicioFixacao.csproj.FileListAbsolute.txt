@@ -1,0 +1,15 @@
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\bin\Debug\net6.0\Aula9_ExercicioFixacao.exe
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\bin\Debug\net6.0\Aula9_ExercicioFixacao.deps.json
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\bin\Debug\net6.0\Aula9_ExercicioFixacao.runtimeconfig.json
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\bin\Debug\net6.0\Aula9_ExercicioFixacao.dll
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\bin\Debug\net6.0\Aula9_ExercicioFixacao.pdb
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.csproj.AssemblyReference.cache
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.AssemblyInfoInputs.cache
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.AssemblyInfo.cs
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.csproj.CoreCompileInputs.cache
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.dll
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\refint\Aula9_ExercicioFixacao.dll
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.pdb
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\Aula9_ExercicioFixacao.genruntimeconfig.cache
+D:\projetos\Aula9_ExercicioFixacao\Aula9_ExercicioFixacao\obj\Debug\net6.0\ref\Aula9_ExercicioFixacao.dll

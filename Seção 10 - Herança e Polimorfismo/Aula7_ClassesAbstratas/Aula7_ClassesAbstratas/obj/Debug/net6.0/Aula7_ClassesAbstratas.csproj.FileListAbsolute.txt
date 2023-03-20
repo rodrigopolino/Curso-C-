@@ -1,0 +1,15 @@
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.csproj.AssemblyReference.cache
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.AssemblyInfoInputs.cache
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.AssemblyInfo.cs
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.csproj.CoreCompileInputs.cache
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\bin\Debug\net6.0\Aula7_ClassesAbstratas.exe
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\bin\Debug\net6.0\Aula7_ClassesAbstratas.deps.json
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\bin\Debug\net6.0\Aula7_ClassesAbstratas.runtimeconfig.json
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\bin\Debug\net6.0\Aula7_ClassesAbstratas.dll
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\bin\Debug\net6.0\Aula7_ClassesAbstratas.pdb
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.dll
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\refint\Aula7_ClassesAbstratas.dll
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.pdb
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\Aula7_ClassesAbstratas.genruntimeconfig.cache
+D:\projetos\Aula7_ClassesAbstratas\Aula7_ClassesAbstratas\obj\Debug\net6.0\ref\Aula7_ClassesAbstratas.dll
